@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<c3p0-config>
+  <default-config>
+    <property name="driverClass">com.mysql.jdbc.Driver</property>
+    <property name="jdbcUrl">jdbc:mysql://47.101.198.61/jsp_flight_management?useSSL=true</property>
+    <property name="user">jsp_flight_management</property>
+    <property name="password">jsp_flight_management</property>
+  </default-config>
+</c3p0-config>
+	
